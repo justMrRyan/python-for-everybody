@@ -165,7 +165,7 @@ That's awesome!
 
 ---
 
-## ⏭️ What’s Next?
+## [⏭️ What’s Next?](https://github.com/justMrRyan/python-for-everybody/edit/main/Lessons/lesson2)
 
 In **Lesson 2**, we’ll dive into:
 
