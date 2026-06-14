@@ -135,7 +135,7 @@ while True:
 
 ---
 
-## ⏭️ Coming Up Next
+## [⏭️ Coming Up Next](https://github.com/justMrRyan/python-for-everybody/tree/main/Lessons/lesson10)
 
 In Lesson 10, we’ll explore:
 
