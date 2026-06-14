@@ -19,4 +19,4 @@ By the end, you'll be writing real Python programs and solving problems with cod
 - Curiosity and a willingness to learn
 - That's it! No fancy tools or prior knowledge required
 
-## 🚀 Let's Get Started!
+## [ 🚀 Let's Get Started!](https://github.com/justMrRyan/python-for-everybody/tree/main/Lessons/lesson1)
