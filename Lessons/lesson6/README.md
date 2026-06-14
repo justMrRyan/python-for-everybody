@@ -152,7 +152,7 @@ greet_user(user_name, user_age)
 
 ---
 
-## ⏭️ What’s Next?
+## [⏭️ What’s Next?](https://github.com/justMrRyan/python-for-everybody/tree/main/Lessons/lesson7)
 
 In **Lesson 7**, we’ll explore:
 
