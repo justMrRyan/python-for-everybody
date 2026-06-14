@@ -174,7 +174,7 @@ while True:
 
 ---
 
-## ⏭️ What’s Next?
+## [⏭️ What’s Next?](https://github.com/justMrRyan/python-for-everybody/tree/main/Lessons/lesson9)
 
 In **Lesson 9**, we’ll explore:
 
