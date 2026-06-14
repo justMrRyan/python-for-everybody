@@ -179,7 +179,7 @@ if attempts == 3:
 
 ---
 
-## ⏭️ What’s Next?
+## [⏭️ What’s Next?](https://github.com/justMrRyan/python-for-everybody/tree/main/Lessons/lesson6)
 
 In **Lesson 6**, we’ll explore:
 
