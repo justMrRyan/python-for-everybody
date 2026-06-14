@@ -150,7 +150,7 @@ else:
 
 ---
 
-## ⏭️ What’s Next?
+## [⏭️ What’s Next?](https://github.com/justMrRyan/python-for-everybody/tree/main/Lessons/lesson4)
 
 In **Lesson 4**, we’ll explore:
 
