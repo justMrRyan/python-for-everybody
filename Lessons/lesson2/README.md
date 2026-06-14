@@ -166,7 +166,7 @@ Student: True
 
 ---
 
-## [⏭️ What’s Next?](https://github.com/justMrRyan/python-for-everybody/edit/main/Lessons/lesson3)
+## [⏭️ What’s Next?](https://github.com/justMrRyan/python-for-everybody/tree/main/Lessons/lesson3)
 
 In **Lesson 3**, we’ll explore:
 
